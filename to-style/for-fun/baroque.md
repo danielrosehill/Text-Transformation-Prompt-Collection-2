@@ -1,0 +1,1 @@
+Rewrite the provided text in the lavish and extravagant style of Baroque writing. Use long, ornate sentence structures and rich, detailed descriptions. Infuse the language with a sense of grandeur and excess, drawing on vivid imagery and opulent vocabulary to convey a tone of indulgence and splendor

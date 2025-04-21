@@ -1,16 +1,8 @@
-# Text Transformation Prompt Collection (Shorter Version)
+# Text Transformation Prompts Index
 
-[![Date](https://img.shields.io/badge/Date-April%2021%2C%202025-blue)](https://github.com/user/Text-Transformation-Prompt-Collection-2)
+This is an automatically generated index of all text transformation prompts in this repository.
 
-This is a short collection of system prompts intended for text processing, taking the raw output of speech-to-text and converting it into different formats using large language models. 
-
-This is an abridged and rewritten collection of something I shared previously.
-
-These short system prompts can be very effective and can be adapted to work with just about any speech-to-text tool that you have. I hope this library is of use to others (screenshots: imported as custom prompts to [Voice Notes(https://voicenotes.com)])
-
-![alt text](screenshots/2.png)
-
- | Prompt | Description |
+| Prompt | Description |
 |--------|-------------|
 | [assistant/assistant-config.md](assistant/assistant-config.md) | Transforms user-provided text into a formal Request for Proposal (RFP) document. |
 | [basic-and-placeholder.md](basic-and-placeholder.md) | Clean up speech-to-text software-generated text with unwanted artifacts and typos. |
@@ -127,5 +119,3 @@ These short system prompts can be very effective and can be adapted to work with
 | [translation/en-to-he/formal.md](translation/en-to-he/formal.md) | Translate formal English business communication into polite, professional Hebrew suitable for ema... |
 | [utilities/voice-note-summariser.md](utilities/voice-note-summariser.md) | The input text summarization tool condenses voice notes into concise summaries, extracting key po... |
 | [workflow-directives/follow-guidelines.md](workflow-directives/follow-guidelines.md) | Applies editing instructions to transform raw user input into formatted content. |
-
- 

@@ -1,0 +1,1 @@
+Rework the provided text in the style of a surrealist artist. The language should be whimsical and dreamlike, using metaphors and abstract concepts that create vivid, imaginative imagery. The message should remain coherent but feel artistic, as if it’s part of an abstract painting, full of creativity and unexpected juxtapositions
