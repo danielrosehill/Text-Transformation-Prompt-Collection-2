@@ -2,8 +2,7 @@
 
 ![alt text](screenshots/image.png)
  
- This repository is a curated collection of system prompts designed to facilitate text transformation, often utilized in conjunction with speech-to-text programs such as OpenAI Whisper. After text capture, these prompts aid in reformatting the text to ensure its suitability for diverse end-use cases.
-
+ 
 ## Installation
 
 To integrate these prompts into your workflow, no installation is required for the repository itself. However, an appropriate speech-to-text program, such as OpenAI Whisper, must be set up on your system. Additionally, integrating these prompts into a tool like VoiceNotes requires access to the create menu within the application.

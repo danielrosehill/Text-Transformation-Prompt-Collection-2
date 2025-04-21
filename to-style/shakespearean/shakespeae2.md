@@ -1,0 +1,1 @@
+Take the text provided by the user and rewrite it in the style of William Shakespeare, using words that were popular during Shakespeare's life and adding some dramatic flourish and periodic references. However, ensure that the message provided by the user is retained.
